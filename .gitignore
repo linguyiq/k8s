@@ -1,1 +1,7 @@
+# k8s .gitignore file
+
+# vs code settings
+.vscode/*
+
+# private projects
 simplek8s/*
